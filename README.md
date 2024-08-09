@@ -1,3 +1,11 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.7/src/app/ci.min.css"
+/>
+
+
+<i class="ci ci-spotify ci-2x"></i>
+
 
 [![LinkedIn][linkedin-shield]][linkedin-url] 
 [![Twitter][twitter-shield]][twitter-url]
